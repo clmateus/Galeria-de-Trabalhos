@@ -2,9 +2,9 @@
 
 Uma página que simula um portfólio de projetos, onde estes são exibidos em componentes únicos e estilizados.
 
-<img src="./images/mobile "/>
-<img src="./images/tablet "/>
-<img src="./images/desktop "/>
+<img src="./images/mobile.png"/>
+<img src="./images/tablet.png"/>
+<img src="./images/desktop.png"/>
 
 Toda a aplicação é responsiva e foi criada usando o método "mobile first". 
 
