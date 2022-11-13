@@ -17,9 +17,9 @@
 
 Uma página completamente responsiva e com algumas animações feitas com CSS.
 
-<img src="./images/mobile.jpg" />
-<img src="./images/tablet.jpg" />
-<img src="./images/desktop.jpg" />
+<img src="./images/mobile.png" />
+<img src="./images/tablet.png" />
+<img src="./images/desktop.png" />
 
 Neste projeto pude desenvolver algumas habilidades como:
 * HTML semântico
