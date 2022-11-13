@@ -1,19 +1,52 @@
-# Galeria de Trabalhos
+<a name="readme-top"></a>
 
-Uma página que simula um portfólio de projetos, onde estes são exibidos em componentes únicos e estilizados.
+<br />
+<div align="center">
 
-<img src="./images/mobile.png"/>
-<img src="./images/tablet.png"/>
-<img src="./images/desktop.png"/>
+  <h3 align="center">Galeria de Trabalhos</h3>
 
-Toda a aplicação é responsiva e foi criada usando o método "mobile first". 
+  <p align="center">
+    Um portfólio de projetos.
+    <br />
+    <a href="https://clmateus.github.io/Galeria-de-Trabalhos" />Veja esse projeto na Web!</a>
+  </p>
+</div>
 
-Além disso, fiz diversas animações nos elementos como, por exemplo, o título e o conteúdo da página que surgem quando o site é carregado, ou o efeito que aumenta o tamanho dos cartões de projetos.
 
-Você pode acessar esse projeto clicando <a href="https://clmateus.github.io/Galeria-de-Trabalhos">aqui</a>.
+## Sobre o projeto
 
-# Tecnologias Usadas
-<ul>
-<li>HTML</li>
-<li>CSS</li>
-</ul>
+Uma página completamente responsiva e com algumas animações feitas com CSS.
+
+<img src="./images/mobile.jpg" />
+<img src="./images/tablet.jpg" />
+<img src="./images/desktop.jpg" />
+
+Neste projeto pude desenvolver algumas habilidades como:
+* HTML semântico
+* CSS responsivo
+* Display Grid
+* Animações e transições
+* Filtros e manipulação de imagem
+* Media queries
+
+Sinta-se livre para me mandar uma mensagem caso perceba algum ponto onde posso melhorar! 
+
+### Construído com
+
+* ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+* ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+## Contato
+
+### Mateus Costa 👨🏻‍💻
+* cl.mateuscosta@gmail.com
+* [![LinkedIn][linkedin-shield]][linkedin-url]
+* [![Github][github-shield]][github-url]
+* Veja esse projeto na web: [Space Cream](https://clmateus.github.io/Space-Cream)
+
+<p align="right">(<a href="#readme-top">Voltar ao início</a>)</p>
+
+[github-shield]: https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white
+[github-url]: https://github.com/clmateus
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/clmateus
